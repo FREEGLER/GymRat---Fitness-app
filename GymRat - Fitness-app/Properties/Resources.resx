@@ -118,28 +118,85 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Amasis_MT_Std_Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\Fonts\Amasis MT Std Black.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="trainingCurtainSymbool1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\trainingCurtainSymbool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="expandCurtainSymbool" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Source\expandCurtainSymbool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="gymnastProfileSymbool" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Source\gymnastProfileSymbool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="checkForWorkOut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\checkForWorkOut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="dropDownMenuSymbool" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Source\dropDownMenuSymbool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="SittingSidePunches1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\Exercises\SittingSidePunches.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exerciseCurtainSymbool" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\exerciseCurtainSymbool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dumbbellAlsFotoVanWorkOut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\dumbbellAlsFotoVanWorkOut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="abdominalsFrontImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\BodyMusclesGroups\abdominalsFrontImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trainingCurtainSymbool" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\trainingCurtainSymbool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="men" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Source\men.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="menProfileSymbool" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Source\menProfileSymbool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Amasis_MT_Std_Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Source\Fonts\Amasis MT Std Black.otf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="gymnastProfileSymbool" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\gymnastProfileSymbool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="awardGoalsSymbool" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Source\awardGoalsSymbool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="quadricepsFrontImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\BodyMusclesGroups\quadricepsFrontImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chechForWorkOut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\chechForWorkOut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plusAlsFotoVanWorkOut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\plusAlsFotoVanWorkOut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frontBonesImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\BodyMusclesGroups\frontBonesImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SittingSidePunches" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\Exercises\SittingSidePunches.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menProfileSymbool" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\menProfileSymbool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tibialisAnteriorFrontImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\BodyMusclesGroups\tibialisAnteriorFrontImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="checkForWorkOut2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\checkForWorkOut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dropDownMenuSymbool" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\dropDownMenuSymbool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="runnerProfileSymbool" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Source\runnerProfileSymbool.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SpiderManPlankCrunch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\Exercises\SpiderManPlankCrunch.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="checkForWorkOut1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\checkForWorkOut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SpiderManPlankCrunch1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\Exercises\SpiderManPlankCrunch.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ModifiedVUps" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\Exercises\ModifiedVUps.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="checkForWorkOut3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Source\checkForWorkOut.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

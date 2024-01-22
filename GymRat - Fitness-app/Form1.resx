@@ -121,7 +121,7 @@
   <data name="menuButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wQAADsEBuJFr7QAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAABm7SURBVHhe7d15
+        vAAADrwBlbxySQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAABm7SURBVHhe7d15
         jF3XfdjxkRTbQRB4F9+7dyhaViVlcdsgSLrkj6po0yS1DRtqE/ePtmkaoE3jGLVRIGjjyAst2TQtUnIl
         kkPOQlIbqeFI3mMlUbwUiGPLQdIUcAw3sRxZSeOmSWxzmSHfMjOn5w7POOTjITlDzvAt9/MBvpAAibb+
         OOd37tvuHQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -234,10 +234,10 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgiIyN/X8hCeVFiNbwwAAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="button1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnPROFILE.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
-        rwAAAK8BK7AVuQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAUdSURBVFhHnZd9
+        qAAAAKgBefSzxgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAUdSURBVFhHnZd9
         TFVlHMefVrP6Aytdm05obQ2XaxmrOVup/NGWM3O+ljPnWBImExebcDECuSogUEOzaxcLwywS0y2ytQFZ
         XuACvu4qL46XmgSm8nrlvfv67fecc++55+W5cBfbh917znme7+f8zvNyLgMQGUfZoyhgq1DESlDIaolO
         YiwA/1wrnePX8GtFfQgQHtSQx+ZT51ZilECE8GutUltRnyqEByXM7DHqJJeYCHSqwZXHMJDFcGMXQ3eG
@@ -262,7 +262,7 @@
         yjrfmQo3Ltr9aOuSBySF+oavw9PdiMmmX3F/ffztkawVsaI+jID9B8YngOQdbHGCAAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="btnGoals.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnGOALS.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
         gwAAAIMBYu+7WgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAKmSURBVEhL1ZVL
@@ -282,5 +282,8 @@
   </data>
   <metadata name="sidebarTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
   </metadata>
 </root>

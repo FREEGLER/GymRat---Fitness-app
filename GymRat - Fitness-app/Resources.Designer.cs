@@ -103,46 +103,6 @@ namespace GymRat___Fitness_app.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap checkForWorkOut {
-            get {
-                object obj = ResourceManager.GetObject("checkForWorkOut", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap checkForWorkOut1 {
-            get {
-                object obj = ResourceManager.GetObject("checkForWorkOut1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap checkForWorkOut2 {
-            get {
-                object obj = ResourceManager.GetObject("checkForWorkOut2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap checkForWorkOut3 {
-            get {
-                object obj = ResourceManager.GetObject("checkForWorkOut3", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap dropDownMenuSymbool {
             get {
                 object obj = ResourceManager.GetObject("dropDownMenuSymbool", resourceCulture);
@@ -316,16 +276,6 @@ namespace GymRat___Fitness_app.Properties {
         internal static System.Drawing.Bitmap trainingCurtainSymbool {
             get {
                 object obj = ResourceManager.GetObject("trainingCurtainSymbool", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap trainingCurtainSymbool1 {
-            get {
-                object obj = ResourceManager.GetObject("trainingCurtainSymbool1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
